@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 mydir
+chmod -R ugo+x mydir
