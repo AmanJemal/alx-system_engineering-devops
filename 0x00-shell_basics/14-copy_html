@@ -1,2 +1,2 @@
 #!/bin/bash
-./tmp/copy_html.sh
+./copy_html.sh
