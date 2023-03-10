@@ -1,2 +1,2 @@
 #!/bin/bash
-./copy_html.sh
+cp -v alx-system_engineering-devops/0x00-shell_basics/html_files/*.html alx-system_engineering-devops/0x00-shell_basics
