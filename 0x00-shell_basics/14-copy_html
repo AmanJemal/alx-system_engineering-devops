@@ -1,2 +1,0 @@
-#!/bin/bash
-find html_files -name "*.html" -exec cp {} ~/tmp
